@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
  * Created by gbs05347 on 09-03-2020.
  */
 @Service
-public class MessageService {
+public class MessageWriterService {
 
 
     private static final String TOPIC_NAME = "hello-kafka";
